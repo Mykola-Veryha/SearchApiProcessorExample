@@ -2,8 +2,6 @@
 
 namespace Drupal\MODULE_NAME\Plugin\search_api\processor;
 
-use Drupal\pfhosting_file\Access\FileAccessChecker;
-use Drupal\pfhosting_folder\Access\FolderAccessChecker;
 use Drupal\search_api\Datasource\DatasourceInterface;
 use Drupal\search_api\Item\ItemInterface;
 use Drupal\search_api\Processor\ProcessorPluginBase;
